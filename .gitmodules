@@ -1,0 +1,3 @@
+[submodule "courses/themes/hugo-theme-techdoc"]
+	path = courses/themes/hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
